@@ -23,7 +23,8 @@ body {
     width: 380px;
     height: 60px;
     margin: 0 auto;
-    float: right;
+    position: fixed;
+    right: 30px;
 }
 
 .m-main video {
